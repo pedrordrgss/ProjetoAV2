@@ -13,7 +13,7 @@ Um sistema de desktop para gerenciamento de vendas, clientes e produtos para a R
 3.  Uso
 4.  Roadmap
 5.  Licença
-6.  Contato
+6.  Autores
 
 ---
 
