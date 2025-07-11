@@ -238,7 +238,7 @@ class SistemaVendas(QMainWindow):
             self._executar_query(query, (comprador_id, material_id, detalhes, data_db))
             
             self.itens_input.clear()
-            self.show_message("Venda registada com sucesso!")
+            self.show_message("Venda registrada com sucesso!")
             self.atualizar_historico_ui()
 
         except Exception as e:
