@@ -211,7 +211,7 @@ class SistemaVendas(QMainWindow):
             self.show_message(f"Ocorreu um erro inesperado: {e}", error=True)
 
     def handle_registrar_venda(self):
-        """Lida com o clique do botão 'Registar Venda'."""
+        """Lida com o clique do botão 'Registrar Venda'."""
         data_str = self.data_input.text().strip()
         cliente_nome = self.cliente_combo.currentText()
         produto_nome = self.produto_combo.currentText()
@@ -242,7 +242,7 @@ class SistemaVendas(QMainWindow):
             self.atualizar_historico_ui()
 
         except Exception as e:
-            self.show_message(f"Ocorreu um erro ao registar a venda: {e}", error=True)
+            self.show_message(f"Ocorreu um erro ao registrar a venda: {e}", error=True)
 
     def handle_remover_cliente(self):
         """Lida com a remoção de um cliente selecionado."""
