@@ -95,5 +95,5 @@ Distribuído sob a Licença Unlicense.
 Igor Alves (Coding, Documentação)  
 Luis Augusto (Coding)  
 Pedro Rodrigues (Coding, Documentação)  
-Morgana Barbosa (Coding)  
+Morgana Barbosa (Coding, Documentação)  
 Vanda Vitorio (Coding)
